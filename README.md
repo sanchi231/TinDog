@@ -1,6 +1,6 @@
 # TinDog 🐶💞
 
-A website similar to Tinder which provides information about g=dogs for someone looking the right partner for their dog.
+A website similar to Tinder which provides helps people who are looking the right partner for their dog.
 
 Find the correct match for yout pet dog.
 
